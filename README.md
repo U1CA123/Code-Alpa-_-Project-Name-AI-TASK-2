@@ -1,4 +1,4 @@
-# Code-Alpa-_-Project-Name-AI-TASK-2
+# Code-Alpha-_-Project-Name-AI-TASK-2
 Chatbot for FAQS
 <br>
 #include <iostream>
